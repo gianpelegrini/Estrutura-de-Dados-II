@@ -1,0 +1,7 @@
+C:\Users\Wesley\source\repos\NewED_Medicamentos\NewED_Medicamentos\bin\Debug\NewED_Medicamentos.exe.config
+C:\Users\Wesley\source\repos\NewED_Medicamentos\NewED_Medicamentos\bin\Debug\NewED_Medicamentos.exe
+C:\Users\Wesley\source\repos\NewED_Medicamentos\NewED_Medicamentos\bin\Debug\NewED_Medicamentos.pdb
+C:\Users\Wesley\source\repos\NewED_Medicamentos\NewED_Medicamentos\obj\Debug\NewED_Medicamentos.csprojAssemblyReference.cache
+C:\Users\Wesley\source\repos\NewED_Medicamentos\NewED_Medicamentos\obj\Debug\NewED_Medicamentos.csproj.CoreCompileInputs.cache
+C:\Users\Wesley\source\repos\NewED_Medicamentos\NewED_Medicamentos\obj\Debug\NewED_Medicamentos.exe
+C:\Users\Wesley\source\repos\NewED_Medicamentos\NewED_Medicamentos\obj\Debug\NewED_Medicamentos.pdb
