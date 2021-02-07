@@ -1,0 +1,7 @@
+C:\Users\Wesley\source\repos\NewED_Livros\NewED_Livros\obj\Debug\NewED_Livros.csprojAssemblyReference.cache
+C:\Users\Wesley\source\repos\NewED_Livros\NewED_Livros\obj\Debug\NewED_Livros.csproj.CoreCompileInputs.cache
+C:\Users\Wesley\source\repos\NewED_Livros\NewED_Livros\bin\Debug\NewED_Livros.exe.config
+C:\Users\Wesley\source\repos\NewED_Livros\NewED_Livros\bin\Debug\NewED_Livros.exe
+C:\Users\Wesley\source\repos\NewED_Livros\NewED_Livros\bin\Debug\NewED_Livros.pdb
+C:\Users\Wesley\source\repos\NewED_Livros\NewED_Livros\obj\Debug\NewED_Livros.exe
+C:\Users\Wesley\source\repos\NewED_Livros\NewED_Livros\obj\Debug\NewED_Livros.pdb

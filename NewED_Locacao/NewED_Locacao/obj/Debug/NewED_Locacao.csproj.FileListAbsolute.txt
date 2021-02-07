@@ -1,0 +1,7 @@
+C:\Users\Wesley\source\repos\NewED_Locacao\NewED_Locacao\obj\Debug\NewED_Locacao.csprojAssemblyReference.cache
+C:\Users\Wesley\source\repos\NewED_Locacao\NewED_Locacao\obj\Debug\NewED_Locacao.csproj.CoreCompileInputs.cache
+C:\Users\Wesley\source\repos\NewED_Locacao\NewED_Locacao\bin\Debug\NewED_Locacao.exe.config
+C:\Users\Wesley\source\repos\NewED_Locacao\NewED_Locacao\bin\Debug\NewED_Locacao.exe
+C:\Users\Wesley\source\repos\NewED_Locacao\NewED_Locacao\bin\Debug\NewED_Locacao.pdb
+C:\Users\Wesley\source\repos\NewED_Locacao\NewED_Locacao\obj\Debug\NewED_Locacao.exe
+C:\Users\Wesley\source\repos\NewED_Locacao\NewED_Locacao\obj\Debug\NewED_Locacao.pdb

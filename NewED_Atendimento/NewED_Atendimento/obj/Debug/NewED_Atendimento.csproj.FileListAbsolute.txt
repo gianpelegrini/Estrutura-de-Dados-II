@@ -1,0 +1,10 @@
+C:\Users\Wesley\source\repos\NewED_Atendimento\NewED_Atendimento\obj\Debug\NewED_Atendimento.csprojAssemblyReference.cache
+C:\Users\Wesley\source\repos\NewED_Atendimento\NewED_Atendimento\obj\Debug\NewED_Atendimento.Form1.resources
+C:\Users\Wesley\source\repos\NewED_Atendimento\NewED_Atendimento\obj\Debug\NewED_Atendimento.Properties.Resources.resources
+C:\Users\Wesley\source\repos\NewED_Atendimento\NewED_Atendimento\obj\Debug\NewED_Atendimento.csproj.GenerateResource.cache
+C:\Users\Wesley\source\repos\NewED_Atendimento\NewED_Atendimento\obj\Debug\NewED_Atendimento.csproj.CoreCompileInputs.cache
+C:\Users\Wesley\source\repos\NewED_Atendimento\NewED_Atendimento\bin\Debug\NewED_Atendimento.exe.config
+C:\Users\Wesley\source\repos\NewED_Atendimento\NewED_Atendimento\bin\Debug\NewED_Atendimento.exe
+C:\Users\Wesley\source\repos\NewED_Atendimento\NewED_Atendimento\bin\Debug\NewED_Atendimento.pdb
+C:\Users\Wesley\source\repos\NewED_Atendimento\NewED_Atendimento\obj\Debug\NewED_Atendimento.exe
+C:\Users\Wesley\source\repos\NewED_Atendimento\NewED_Atendimento\obj\Debug\NewED_Atendimento.pdb
