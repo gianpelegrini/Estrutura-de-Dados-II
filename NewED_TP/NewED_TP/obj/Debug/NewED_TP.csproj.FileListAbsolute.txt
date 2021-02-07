@@ -1,0 +1,7 @@
+C:\Users\Wesley\source\repos\NewED_TP\NewED_TP\bin\Debug\NewED_TP.exe.config
+C:\Users\Wesley\source\repos\NewED_TP\NewED_TP\bin\Debug\NewED_TP.exe
+C:\Users\Wesley\source\repos\NewED_TP\NewED_TP\bin\Debug\NewED_TP.pdb
+C:\Users\Wesley\source\repos\NewED_TP\NewED_TP\obj\Debug\NewED_TP.csprojAssemblyReference.cache
+C:\Users\Wesley\source\repos\NewED_TP\NewED_TP\obj\Debug\NewED_TP.csproj.CoreCompileInputs.cache
+C:\Users\Wesley\source\repos\NewED_TP\NewED_TP\obj\Debug\NewED_TP.exe
+C:\Users\Wesley\source\repos\NewED_TP\NewED_TP\obj\Debug\NewED_TP.pdb
