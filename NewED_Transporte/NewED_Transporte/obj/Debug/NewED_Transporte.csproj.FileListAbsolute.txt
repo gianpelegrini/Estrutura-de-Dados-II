@@ -1,0 +1,7 @@
+C:\Users\Wesley\source\repos\NewED_Transporte\NewED_Transporte\obj\Debug\NewED_Transporte.csprojAssemblyReference.cache
+C:\Users\Wesley\source\repos\NewED_Transporte\NewED_Transporte\obj\Debug\NewED_Transporte.csproj.CoreCompileInputs.cache
+C:\Users\Wesley\source\repos\NewED_Transporte\NewED_Transporte\bin\Debug\NewED_Transporte.exe.config
+C:\Users\Wesley\source\repos\NewED_Transporte\NewED_Transporte\bin\Debug\NewED_Transporte.exe
+C:\Users\Wesley\source\repos\NewED_Transporte\NewED_Transporte\bin\Debug\NewED_Transporte.pdb
+C:\Users\Wesley\source\repos\NewED_Transporte\NewED_Transporte\obj\Debug\NewED_Transporte.exe
+C:\Users\Wesley\source\repos\NewED_Transporte\NewED_Transporte\obj\Debug\NewED_Transporte.pdb

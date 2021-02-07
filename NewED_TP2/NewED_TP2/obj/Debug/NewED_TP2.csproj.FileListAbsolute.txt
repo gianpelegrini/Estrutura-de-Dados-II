@@ -1,0 +1,10 @@
+C:\Users\Wesley\source\repos\NewED_TP2\NewED_TP2\bin\Debug\NewED_TP2.exe.config
+C:\Users\Wesley\source\repos\NewED_TP2\NewED_TP2\bin\Debug\NewED_TP2.exe
+C:\Users\Wesley\source\repos\NewED_TP2\NewED_TP2\bin\Debug\NewED_TP2.pdb
+C:\Users\Wesley\source\repos\NewED_TP2\NewED_TP2\obj\Debug\NewED_TP2.csprojAssemblyReference.cache
+C:\Users\Wesley\source\repos\NewED_TP2\NewED_TP2\obj\Debug\NewED_TP2.Form1.resources
+C:\Users\Wesley\source\repos\NewED_TP2\NewED_TP2\obj\Debug\NewED_TP2.Properties.Resources.resources
+C:\Users\Wesley\source\repos\NewED_TP2\NewED_TP2\obj\Debug\NewED_TP2.csproj.GenerateResource.cache
+C:\Users\Wesley\source\repos\NewED_TP2\NewED_TP2\obj\Debug\NewED_TP2.csproj.CoreCompileInputs.cache
+C:\Users\Wesley\source\repos\NewED_TP2\NewED_TP2\obj\Debug\NewED_TP2.exe
+C:\Users\Wesley\source\repos\NewED_TP2\NewED_TP2\obj\Debug\NewED_TP2.pdb
